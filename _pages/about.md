@@ -33,4 +33,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
-테스트 용 한국어
+<p class="noto-sans-kr">한국 무용은 `한국`의 전통 문화와 음악을 바탕으로 발전한 다양한 형태의 춤을 일컫습니다. 궁중 무용과 민속 무용이 대표적이며, 각각 고유한 특징을 지니고 있습니다.</p>
+
+<p class="noto-serif-kr">한국 무용은 한국의 전통 문화와 음악을 바탕으로 발전한 다양한 형태의 춤을 일컫습니다. `궁중` 무용과 민속 무용이 대표적이며, 각각 고유한 특징을 지니고 있습니다.</p>
