@@ -32,3 +32,14 @@ latest_posts:
 하지만 무용을 한마디로 정의해달라는 질문에 말로 표현할 수 없는 것을 몸으로 표현할 수 있는 나만의 언어라고 거침없이 답할 때는 소신 있고 당당한 면모도 볼 수 있었다.
 
 &nbsp;
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/landscape_01.jpg" title="landscape_01" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/portrait_01.jpg" title="portrait_01" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+&nbsp;
