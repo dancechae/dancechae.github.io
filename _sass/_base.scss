@@ -26,12 +26,16 @@ hr {
 table {
   td,
   th {
-    font-size: 1rem;
+    font-size: 0.875rem; // 1rem;
     padding: 1px 1rem 1px 0;
   }
 
   th {
     color: var(--global-theme-color); // font-weight: bold;
+  }
+
+  td {
+    color: #000000 !important;
   }
 }
 
