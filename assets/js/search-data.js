@@ -28,15 +28,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-2011년-제41회-동아무용콩쿠르-한국창작무용부문-일반부-금상-동아일보",
+          title: '2011년 제41회 동아무용콩쿠르 한국창작무용부문 일반부 금상(동아일보)',
+          description: "",
+          section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-2025년-신진예술-지원사업-선정-세종시문화관광재단",
+            },},{id: "news-2025년-신진예술-지원사업-선정-세종시문화관광재단",
           title: '2025년 신진예술 지원사업 선정(세종시문화관광재단)',
           description: "",
           section: "News",},{id: "projects-project-1",
