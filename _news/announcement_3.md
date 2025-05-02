@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2011-05-27 18:00:00+0900
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+2011년 제41회 동아무용콩쿠르 한국창작무용부문 일반부 금상(동아일보)
