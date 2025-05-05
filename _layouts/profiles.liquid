@@ -5,15 +5,13 @@ layout: page
   <article>
     {% if page.profiles %}
       <hr>
-      {% for profile in page.profiles %}
-       <div class="clearfix">
-          {{ profile.align }}
-          {{ profile.image }}
-          {{ profile.content }}
-          {{ profile.image_circular }}
-          {{ profile.more_info }}
-        </div>
-      {% endfor %}
+       <div class="clearfix noto-sans-kr">
+        {% for profile in page.profiles %}
+          <span>{{ profile.name }}</span>
+          <span>{{ profile.role }}</span>
+          <span>{{ profile.affiliation }}</span>
+        {% endfor %}
+       </div>
     {% endif %}
   </article>
 </div>
