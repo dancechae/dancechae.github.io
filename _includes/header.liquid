@@ -3,8 +3,12 @@
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
       {% if page.permalink != '/' %}
-        <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
-          <img src="/assets/img/logo-top.png">
+        <a href="{{ site.baseurl }}/">
+          <div style="display:inline-flex;">
+            <span class="logo-dance">DANC</span>
+            <span class="logo-chae">HA</span>
+            <span class="logo-dance">E</span>
+          </div>
         </a>
       {% elsif site.enable_navbar_social %}
         <!-- Social Icons -->
