@@ -5,13 +5,17 @@ layout: page
   <article>
     {% if page.profiles %}
       <hr>
-       <div class="clearfix noto-sans-kr">
+        <div class="clearfix noto-sans-kr">
         {% for profile in page.profiles %}
-          <span>{{ profile.name }}</span>
-          <span>{{ profile.role }}</span>
-          <span>{{ profile.affiliation }}</span>
+          <div>
+            <span>{{ profile.name }}</span>
+            <span class="small text-muted"> / </span>
+            <span class="small">{{ profile.role }}</span>
+            <span class="small text-muted"> / </span>
+            <span class="small">{{ profile.affiliation }}</span>
+          </div>
         {% endfor %}
-       </div>
+      </div>
     {% endif %}
   </article>
 </div>
