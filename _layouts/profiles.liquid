@@ -4,18 +4,18 @@ layout: page
 <div class="post">
   <article>
     {% if page.profiles %}
-      <hr>
-        <div class="clearfix noto-sans-kr">
-        {% for profile in page.profiles %}
-          <div>
-            <span>{{ profile.name }}</span>
-            <span class="small text-muted"> / </span>
-            <span class="small">{{ profile.role }}</span>
-            <span class="small text-muted"> / </span>
-            <span class="small">{{ profile.affiliation }}</span>
-          </div>
-        {% endfor %}
+    <hr />
+    <div class="clearfix noto-sans-kr">
+      {% for profile in page.profiles %}
+      <div class="mb-1">
+        <span>{{ profile.name }}</span>
+        <span class="small text-muted"> / </span>
+        <span class="small">{{ profile.role }}</span>
+        <span class="small text-muted"> / </span>
+        <span class="small">{{ profile.affiliation }}</span>
       </div>
+      {% endfor %}
+    </div>
     {% endif %}
   </article>
 </div>
