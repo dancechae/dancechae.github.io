@@ -58,9 +58,9 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-화선무",
+          title: '화선무',
+          description: "(꽃 花, 부채 扇) 기본 춤을 바탕으로 짜여 진 즉흥적인 춤",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-9",
