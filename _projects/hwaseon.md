@@ -29,3 +29,7 @@ category: traditional
 <div class="caption">
     화선무
 </div>
+
+    **공연 기록**
+    - 전주 대사습청 1
+    - 전주 대사습청 2
