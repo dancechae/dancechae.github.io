@@ -35,10 +35,10 @@ latest_posts:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/landscape_01.jpg" title="landscape_01" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/about/landscape_01.png" title="landscape_01" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/portrait_01.jpg" title="portrait_01" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/about/portrait_01.png" title="portrait_01" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
