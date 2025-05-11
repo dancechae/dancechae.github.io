@@ -58,6 +58,11 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-고풍",
+          title: '고풍',
+          description: "한국 무용가 최현 선생님이 안무한 춤",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/gopung/";
             },},{id: "projects-화관무",
           title: '화관무',
           description: "꽃으로 장식된 화관을 머리에 쓴 무희들이 오색 한삼을 공중에 뿌리며 추는 춤",
