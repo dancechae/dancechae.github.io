@@ -58,11 +58,11 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-화관무",
+          title: '화관무',
+          description: "꽃으로 장식된 화관을 머리에 쓴 무희들이 오색 한삼을 공중에 뿌리며 추는 춤",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/hwagwan/";
             },},{id: "projects-화선무",
           title: '화선무',
           description: "(꽃 花, 부채 扇) 기본 춤을 바탕으로 짜여 진 즉흥적인 춤",
