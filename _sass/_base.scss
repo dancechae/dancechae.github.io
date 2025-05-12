@@ -185,6 +185,16 @@ ul.task-list input[type="checkbox"] {
   .card-body {
     padding: 1.25rem 1.25rem 1.25rem 1.25rem;
   }
+
+  img {
+    filter: grayscale(0.5);
+    -webkit-filter: grayscale(0.5);
+  }
+
+  img:hover {
+    filter: none;
+    -webkit-filter: grayscale(0);
+  }
 }
 
 // Citation
