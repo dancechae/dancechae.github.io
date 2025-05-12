@@ -11,15 +11,9 @@ category: traditional
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/hwaseon/hwaseon2.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/hwaseon/hwaseon3.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/hwaseon/hwaseon4.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/Nm05GgQIzws" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    2019 보훈댄스페스티벌 - 젋은 예인전, 남산국악당
+    제65회 한국민속예술제(2024), 화관무, 화관무보존회
 </div>
