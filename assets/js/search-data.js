@@ -48,11 +48,6 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-능소화",
-          title: '능소화',
-          description: "조선시대 비운의 궁녀 ‘소화’ 이야기",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
             },},{id: "projects-고풍",
           title: '고풍',
           description: "한국 무용가 최현 선생님이 안무한 춤",
@@ -68,4 +63,9 @@ ninja.data = [{
           description: "(꽃 花, 부채 扇) 기본 춤을 바탕으로 짜여 진 즉흥적인 춤",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hwaseon/";
+            },},{id: "projects-능소화",
+          title: '능소화',
+          description: "조선시대 비운의 궁녀 ‘소화’ 이야기",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sohwa/";
             },},];
