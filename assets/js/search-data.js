@@ -43,9 +43,9 @@ ninja.data = [{
           section: "News",},{id: "news-2025년-신진예술-지원사업-선정-세종시문화관광재단",
           title: '2025년 신진예술 지원사업 선정(세종시문화관광재단)',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-창작",
+          title: '창작',
+          description: "창작 작품.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-고풍",
