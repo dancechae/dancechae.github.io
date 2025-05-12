@@ -2,7 +2,7 @@
 layout: page
 title: 화관무
 description: 꽃으로 장식된 화관을 머리에 쓴 무희들이 오색 한삼을 공중에 뿌리며 추는 춤
-img: assets/img/hwaseon/hwaseon1.png
+img: assets/img/hwagwan/hwagwan0.jpg
 importance: 2
 category: traditional
 ---
