@@ -9,10 +9,16 @@ category: traditional
 
 궁중무 복식에 화관을 쓴 무원(舞員)들이 긴 색한삼(色汗衫)을 공중에 흩뿌리며 흥겹게 추는 춤.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/Nm05GgQIzws" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="video-container">
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/Nm05GgQIzws?si=Ed5AwSS7W6oBcMOz"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+  ></iframe>
 </div>
 <div class="caption">
     제65회 한국민속예술제(2024), 화관무, 화관무보존회
