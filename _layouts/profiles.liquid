@@ -11,8 +11,10 @@ layout: page
         <span>{{ profile.name }}</span>
         <span class="small text-muted"> / </span>
         <span class="small">{{ profile.role }}</span>
-        <span class="small text-muted"> / </span>
-        <span class="small">{{ profile.affiliation }}</span>
+        {% if profile.affiliation %}
+          <span class="small text-muted"> / </span>
+          <span class="small">{{ profile.affiliation }}</span>
+        {% endif %}
       </div>
       {% endfor %}
     </div>
