@@ -48,6 +48,11 @@ ninja.data = [{
           description: "창작 작품.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-관계의-비대칭",
+          title: '관계의 비대칭',
+          description: "감정의 무게와 관계의 불균형",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/assymetry/";
             },},{id: "projects-고풍",
           title: '고풍',
           description: "한국 무용가 최현 선생님이 안무한 춤",
