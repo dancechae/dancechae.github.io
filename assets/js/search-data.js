@@ -48,9 +48,9 @@ ninja.data = [{
           description: "감정의 무게와 관계의 불균형",
           section: "Projects",handler: () => {
               window.location.href = "/projects/assymetry/";
-            },},{id: "projects-모음집",
-          title: '모음집',
-          description: "그 밖의 주요 창작 작품 모음집",
+            },},{id: "projects-소품집",
+          title: '소품집',
+          description: "그 밖의 주요 창작 작품 모음",
           section: "Projects",handler: () => {
               window.location.href = "/projects/creatives/";
             },},{id: "projects-고풍",
