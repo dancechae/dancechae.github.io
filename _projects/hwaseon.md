@@ -23,3 +23,12 @@ category: traditional
 <div class="caption">
     2019 보훈댄스페스티벌 - 젋은 예인전, 남산국악당
 </div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/hwaseon/hwaseon5.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    2025 한국춤의 향연, 전주대사습청
+</div>
