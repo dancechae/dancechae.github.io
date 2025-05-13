@@ -68,6 +68,11 @@ ninja.data = [{
           description: "(꽃 花, 부채 扇) 기본 춤을 바탕으로 짜여 진 즉흥적인 춤",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hwaseon/";
+            },},{id: "projects-주님이-나를-일으키시네",
+          title: '주님이 나를 일으키시네',
+          description: "시련을 딛고 일어난 소녀",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/severance/";
             },},{id: "projects-능소화",
           title: '능소화',
           description: "조선시대 비운의 궁녀 ‘소화’ 이야기",
