@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 모음집
-description: 그 밖의 주요 창작 작품 모음집
-img: assets/img/creative/tasan1.png
+title: 소품집
+description: 그 밖의 주요 창작 작품 모음
+img: assets/img/creative/tasan2.png
 importance: 5
 category: creative
 ---
