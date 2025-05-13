@@ -43,16 +43,16 @@ ninja.data = [{
           section: "News",},{id: "news-2025년-신진예술-지원사업-선정-세종시문화관광재단",
           title: '2025년 신진예술 지원사업 선정(세종시문화관광재단)',
           description: "",
-          section: "News",},{id: "projects-창작",
-          title: '창작',
-          description: "창작 작품.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-관계의-비대칭",
+          section: "News",},{id: "projects-관계의-비대칭",
           title: '관계의 비대칭',
           description: "감정의 무게와 관계의 불균형",
           section: "Projects",handler: () => {
               window.location.href = "/projects/assymetry/";
+            },},{id: "projects-모음집",
+          title: '모음집',
+          description: "그 밖의 주요 창작 작품 모음집",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/creatives/";
             },},{id: "projects-고풍",
           title: '고풍',
           description: "한국 무용가 최현 선생님이 안무한 춤",
