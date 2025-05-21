@@ -11,6 +11,21 @@ category: creative
 
 <p><small>*제41회 동아무용콩쿠르 일반부 한국무용창작 여자부분 금상 수상작</small></p>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/sohwa/sohwa1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/sohwa/sohwa2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/sohwa/sohwa3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    제41회 동아무용콩쿠르, 능소화
+</div>
+
 <div class="video-container">
   <iframe
     width="560"
@@ -21,7 +36,4 @@ category: creative
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
   ></iframe>
-</div>
-<div class="caption">
-    제41회 동아무용콩쿠르, 능소화
 </div>
