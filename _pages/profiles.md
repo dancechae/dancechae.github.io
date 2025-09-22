@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /collab/
-title: collab
+permalink: /company/
+title: company
 description: members of the lab or group
 nav: true
 nav_order: 7
