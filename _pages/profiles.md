@@ -36,7 +36,7 @@ profiles:
 </div>
 <p class="text-right pr-4 small">- 통곡할 만한 자리, 연암 박지원</p>
 
-<div class="clearfix noto-serif-kr text-justify">
+<div class="clearfix noto-serif-kr text-center mt-4">
   <p class="mb-1">벅찬 기쁨도, 깊은 슬픔도, 그 끝에는 <span class="chae-code">눈물(淚)</span>이 있습니다.</p>
   <p class="mb-1">댄스컴퍼니 수려는 바로 그 지점에서 출발합니다.</p>
   <p class="mb-2">수려라는 이름은 두 가지 뜻을 품고 있습니다.</p>
