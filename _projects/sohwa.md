@@ -3,7 +3,7 @@ layout: page
 title: 능소화
 description: 조선시대 비운의 궁녀 ‘소화’ 이야기
 img: assets/img/creative/sohwa1.jpg
-importance: 4
+importance: 98
 category: creative
 ---
 
