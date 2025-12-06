@@ -2,7 +2,7 @@
 layout: page
 title: 한글, 나다
 description: 세종대왕의 한글 창제와 그것이 우리에게 미친 영향
-img: assets/img/creative/asymmetry2.png
+img: assets/img/creative/hangul-nada5.jpg
 importance: 1
 category: creative
 ---
@@ -19,23 +19,23 @@ category: creative
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/creative/asymmetry1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/creative/hangul-nada3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/creative/asymmetry2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/creative/hangul-nada4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/creative/asymmetry3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/creative/hangul-nada2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/creative/asymmetry1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/creative/hangul-nada5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/creative/asymmetry2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/creative/hangul-nada1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    2025, 한글, 나다, 비오케이아트센
+    2025, "한글, 나다", 비오케이아트센터
 </div>
