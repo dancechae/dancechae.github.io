@@ -3,7 +3,7 @@ layout: page
 title: 주님이 나를 일으키시네
 description: 시련을 딛고 일어난 소녀
 img: assets/img/creative/severance2.png
-importance: 2
+importance: 97
 category: creative
 ---
 
