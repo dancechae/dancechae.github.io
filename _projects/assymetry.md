@@ -3,7 +3,7 @@ layout: page
 title: 관계의 비대칭
 description: 감정의 무게와 관계의 불균형
 img: assets/img/creative/asymmetry2.png
-importance: 1
+importance: 96
 category: creative
 ---
 
