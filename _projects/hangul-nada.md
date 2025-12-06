@@ -15,7 +15,7 @@ category: creative
 
 **4막. 세종대왕의 꿈** 세종대왕이 한글을 창제하며 이루고자 했던 사회적 비전과 철학
 
-<p class="post-description">2025년 신진예술 지원사업(세종시문화관광재단)</p>
+<p class="post-description">✨ 2025년 신진예술 지원사업(세종시문화관광재단)</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
