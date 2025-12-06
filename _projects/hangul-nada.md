@@ -3,7 +3,7 @@ layout: page
 title: 한글, 나다
 description: 세종대왕의 한글 창제와 그것이 우리에게 미친 영향
 img: assets/img/creative/hangul-nada5.jpg
-importance: 1
+importance: 95
 category: creative
 ---
 
