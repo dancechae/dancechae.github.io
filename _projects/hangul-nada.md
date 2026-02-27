@@ -44,7 +44,7 @@ category: creative
   <iframe
     width="560"
     height="315"
-    src="https://www.youtube.com/embed/Nm05GgQIzws?si=Ed5AwSS7W6oBcMOz"
+    src="https://www.youtube.com/embed/4mnVXJBU-CQ?si=DjnSt8DzNxA8ecOG"
     title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
