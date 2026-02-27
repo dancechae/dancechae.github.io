@@ -1,4 +1,4 @@
-<img width="1043" height="651" alt="image" src="https://github.com/user-attachments/assets/bc12a03f-cb3f-4b53-998b-6b2dfa80b480" />---
+---
 layout: page
 title: 한글, 나다
 description: 세종대왕의 한글 창제와 그것이 우리에게 미친 영향
