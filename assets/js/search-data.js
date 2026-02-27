@@ -58,11 +58,6 @@ ninja.data = [{
           description: "한국 무용가 최현 선생님이 안무한 춤",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gopung/";
-            },},{id: "projects-한글-나다",
-          title: '한글, 나다',
-          description: "세종대왕의 한글 창제와 그것이 우리에게 미친 영향",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/hangul-nada/";
             },},{id: "projects-화관무",
           title: '화관무',
           description: "꽃으로 장식된 화관을 머리에 쓴 무희들이 오색 한삼을 공중에 뿌리며 추는 춤",
