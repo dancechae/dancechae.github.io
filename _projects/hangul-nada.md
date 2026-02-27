@@ -1,4 +1,4 @@
----
+<img width="1043" height="651" alt="image" src="https://github.com/user-attachments/assets/bc12a03f-cb3f-4b53-998b-6b2dfa80b480" />---
 layout: page
 title: 한글, 나다
 description: 세종대왕의 한글 창제와 그것이 우리에게 미친 영향
@@ -38,4 +38,16 @@ category: creative
 </div>
 <div class="caption">
     2025, "한글, 나다", 비오케이아트센터
+</div>
+
+<div class="video-container">
+    <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/4mnVXJBU-CQ?si=gO3BPmv-aNprHocb"
+        title="YouTube video player"
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+    </iframe>
 </div>
