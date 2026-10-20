@@ -38,7 +38,7 @@ profiles:
 
 <div class="clearfix noto-serif-kr text-center mt-4">
   <p class="mb-1">벅찬 기쁨도, 깊은 슬픔도, 그 끝에는 <span class="chae-code">눈물(淚)</span>이 있습니다.</p>
-  <p class="mb-1">댄스컴퍼니 수려는 모든 감정에서 출발합니다.</p>
+  <p class="mb-1">댄스컴퍼니 수려의 춤은 모든 감정에서 출발합니다.</p>
   <p class="mb-4">수려라는 이름은 두 가지 뜻을 품고 있습니다.</p>
   <p class="mb-1">첫째는 사람의 가장 솔직한 감정이 응축된 <span class="chae-code">눈물(淚)</span>의 이야기입니다.</p>
   <p class="post-description">(눈물 루 淚 = 물 수 水 + 어그러질 려 戾)</p>
